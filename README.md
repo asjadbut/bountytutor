@@ -14,14 +14,6 @@ BountyTutor is an **open source** interactive learning platform designed to help
 
 ---
 
-## Screenshots / Demo
-
-![BountyTutor Screenshot](src/assets/bountytutor-logo.png)
-
-*More screenshots and a live demo coming soon!*
-
----
-
 ## Installation
 
 1. **Clone the repository:**
@@ -60,16 +52,9 @@ Please follow the existing code style and add tests or documentation where appro
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Author / Contributors
 
-- [Your Name](https://github.com/your-github)
-- [List of contributors](https://github.com/your-org/bountytutor/graphs/contributors)
+- [Asjad Butt](https://github.com/asjadbut)
 
 ---
 
